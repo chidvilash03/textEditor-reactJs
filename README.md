@@ -1,4 +1,3 @@
-The goal of this coding exam is to quickly get you off the ground with **Dynamic Styling Using Styled Components**.
 
 ### Refer to the image below:
 
@@ -29,10 +28,10 @@ The goal of this coding exam is to quickly get you off the ground with **Dynamic
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Functionality added</summary>
 <br/>
 
-The app must have the following functionalities
+The app contains the following functionalities
 
 - Initially, **#f1f5f9** color is applied to all the three **bold icon**, **italic icon**, **underline icon** buttons
 
@@ -118,13 +117,4 @@ The app must have the following functionalities
 </details>
 
 <br/>
-<details>
-<summary>Font-families</summary>
 
-- Roboto
-
-</details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
